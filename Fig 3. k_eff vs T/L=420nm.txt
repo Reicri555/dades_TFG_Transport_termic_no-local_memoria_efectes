@@ -1,0 +1,15 @@
+% Model:              Estacionari, recreació gràfic k_eff vs T amb Fourier vs KCM.mph
+% Version:            COMSOL 5.4.0.388
+% Date:               Jul 27 2024, 20:30
+% Dimension:          1
+% Nodes:              7
+% Expressions:        1
+% Description:        Global
+% T                       k_eff
+50                        29.885701991827105
+100                       72.33500740929843
+150                       87.43562090098817
+200                       88.6238084794123
+250                       84.34331506473785
+300                       78.45331830539608
+350                       72.46590352243315
